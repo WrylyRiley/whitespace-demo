@@ -1,7 +1,9 @@
 # Whitespace
 
-## Project Code
-This codes pushes ASCII numbers to the heap with associated addresses, then loops through the heap constructing the string and outputting it to the terminal 
+## Project Code and instructions
+This codes pushes ASCII numbers to the heap with associated addresses, then loops through the heap constructing the string and outputting it to the terminal
+
+navigate to [Whitelips](http://vii5ard.github.io/whitespace/), the only whitespace IDE I could find, copy and paste the code, and click run.  
 ```
    				
    	  	   
